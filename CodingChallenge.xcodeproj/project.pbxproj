@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22E4031E27F19D50009724C3 /* Shift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031627F19D50009724C3 /* Shift.swift */; };
+		22E4031F27F19D50009724C3 /* FacilityType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031727F19D50009724C3 /* FacilityType.swift */; };
+		22E4032027F19D50009724C3 /* Specialty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031827F19D50009724C3 /* Specialty.swift */; };
+		22E4032127F19D50009724C3 /* AvailableShiftsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031927F19D50009724C3 /* AvailableShiftsData.swift */; };
+		22E4032227F19D50009724C3 /* Skill.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031A27F19D50009724C3 /* Skill.swift */; };
+		22E4032327F19D50009724C3 /* AvailableShifts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031B27F19D50009724C3 /* AvailableShifts.swift */; };
+		22E4032427F19D50009724C3 /* LocalizedSpecialty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031C27F19D50009724C3 /* LocalizedSpecialty.swift */; };
+		22E4032527F19D50009724C3 /* AvailableShiftsMeta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4031D27F19D50009724C3 /* AvailableShiftsMeta.swift */; };
+		22E4032E27F19D50009724C3 /* NetworkError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4032A27F19D50009724C3 /* NetworkError.swift */; };
+		22E4032F27F19D50009724C3 /* NetworkConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4032B27F19D50009724C3 /* NetworkConfiguration.swift */; };
+		22E4033027F19D50009724C3 /* Networking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4032C27F19D50009724C3 /* Networking.swift */; };
+		22E4033127F19D50009724C3 /* ShiftsNetworking.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4032D27F19D50009724C3 /* ShiftsNetworking.swift */; };
+		22E4033327F19D50009724C3 /* Date+extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4033227F19D50009724C3 /* Date+extensions.swift */; };
+		22E4033527F19D50009724C3 /* JSONDecoder+availableShiftsDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22E4033427F19D50009724C3 /* JSONDecoder+availableShiftsDecoder.swift */; };
 		2349FD5B261E4F6900A1FEAA /* CodingChallengeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2349FD5A261E4F6900A1FEAA /* CodingChallengeApp.swift */; };
 		2349FD5F261E4F6A00A1FEAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2349FD5E261E4F6A00A1FEAA /* Assets.xcassets */; };
 		2349FD62261E4F6A00A1FEAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2349FD61261E4F6A00A1FEAA /* Preview Assets.xcassets */; };
@@ -33,6 +47,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		22E4031627F19D50009724C3 /* Shift.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shift.swift; sourceTree = "<group>"; };
+		22E4031727F19D50009724C3 /* FacilityType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacilityType.swift; sourceTree = "<group>"; };
+		22E4031827F19D50009724C3 /* Specialty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Specialty.swift; sourceTree = "<group>"; };
+		22E4031927F19D50009724C3 /* AvailableShiftsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AvailableShiftsData.swift; sourceTree = "<group>"; };
+		22E4031A27F19D50009724C3 /* Skill.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Skill.swift; sourceTree = "<group>"; };
+		22E4031B27F19D50009724C3 /* AvailableShifts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AvailableShifts.swift; sourceTree = "<group>"; };
+		22E4031C27F19D50009724C3 /* LocalizedSpecialty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocalizedSpecialty.swift; sourceTree = "<group>"; };
+		22E4031D27F19D50009724C3 /* AvailableShiftsMeta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AvailableShiftsMeta.swift; sourceTree = "<group>"; };
+		22E4032A27F19D50009724C3 /* NetworkError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkError.swift; sourceTree = "<group>"; };
+		22E4032B27F19D50009724C3 /* NetworkConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkConfiguration.swift; sourceTree = "<group>"; };
+		22E4032C27F19D50009724C3 /* Networking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Networking.swift; sourceTree = "<group>"; };
+		22E4032D27F19D50009724C3 /* ShiftsNetworking.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShiftsNetworking.swift; sourceTree = "<group>"; };
+		22E4033227F19D50009724C3 /* Date+extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Date+extensions.swift"; sourceTree = "<group>"; };
+		22E4033427F19D50009724C3 /* JSONDecoder+availableShiftsDecoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "JSONDecoder+availableShiftsDecoder.swift"; sourceTree = "<group>"; };
 		2349FD57261E4F6900A1FEAA /* CodingChallenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodingChallenge.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2349FD5A261E4F6900A1FEAA /* CodingChallengeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingChallengeApp.swift; sourceTree = "<group>"; };
 		2349FD5E261E4F6A00A1FEAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -72,6 +100,55 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		22E4031527F19D50009724C3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				22E4031B27F19D50009724C3 /* AvailableShifts.swift */,
+				22E4031927F19D50009724C3 /* AvailableShiftsData.swift */,
+				22E4031D27F19D50009724C3 /* AvailableShiftsMeta.swift */,
+				22E4031727F19D50009724C3 /* FacilityType.swift */,
+				22E4031C27F19D50009724C3 /* LocalizedSpecialty.swift */,
+				22E4031627F19D50009724C3 /* Shift.swift */,
+				22E4031A27F19D50009724C3 /* Skill.swift */,
+				22E4031827F19D50009724C3 /* Specialty.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		22E4032627F19D50009724C3 /* Networking */ = {
+			isa = PBXGroup;
+			children = (
+				22E4032B27F19D50009724C3 /* NetworkConfiguration.swift */,
+				22E4032A27F19D50009724C3 /* NetworkError.swift */,
+				22E4032C27F19D50009724C3 /* Networking.swift */,
+				22E4032D27F19D50009724C3 /* ShiftsNetworking.swift */,
+			);
+			path = Networking;
+			sourceTree = "<group>";
+		};
+		22E4032727F19D50009724C3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		22E4032827F19D50009724C3 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		22E4032927F19D50009724C3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				22E4033427F19D50009724C3 /* JSONDecoder+availableShiftsDecoder.swift */,
+				22E4033227F19D50009724C3 /* Date+extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
 		2349FD4E261E4F6900A1FEAA = {
 			isa = PBXGroup;
 			children = (
@@ -95,6 +172,11 @@
 		2349FD59261E4F6900A1FEAA /* CodingChallenge */ = {
 			isa = PBXGroup;
 			children = (
+				22E4031527F19D50009724C3 /* Model */,
+				22E4032827F19D50009724C3 /* ViewModel */,
+				22E4032727F19D50009724C3 /* View */,
+				22E4032627F19D50009724C3 /* Networking */,
+				22E4032927F19D50009724C3 /* Extensions */,
 				2349FD5A261E4F6900A1FEAA /* CodingChallengeApp.swift */,
 				2349FD88261E4F9900A1FEAA /* ShiftsView.swift */,
 				2349FD5E261E4F6A00A1FEAA /* Assets.xcassets */,
@@ -259,8 +341,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22E4033327F19D50009724C3 /* Date+extensions.swift in Sources */,
+				22E4032227F19D50009724C3 /* Skill.swift in Sources */,
+				22E4032427F19D50009724C3 /* LocalizedSpecialty.swift in Sources */,
+				22E4031F27F19D50009724C3 /* FacilityType.swift in Sources */,
+				22E4033027F19D50009724C3 /* Networking.swift in Sources */,
+				22E4032327F19D50009724C3 /* AvailableShifts.swift in Sources */,
+				22E4033527F19D50009724C3 /* JSONDecoder+availableShiftsDecoder.swift in Sources */,
 				2349FD89261E4F9900A1FEAA /* ShiftsView.swift in Sources */,
+				22E4031E27F19D50009724C3 /* Shift.swift in Sources */,
+				22E4032027F19D50009724C3 /* Specialty.swift in Sources */,
+				22E4032527F19D50009724C3 /* AvailableShiftsMeta.swift in Sources */,
+				22E4032127F19D50009724C3 /* AvailableShiftsData.swift in Sources */,
+				22E4033127F19D50009724C3 /* ShiftsNetworking.swift in Sources */,
+				22E4032E27F19D50009724C3 /* NetworkError.swift in Sources */,
 				2349FD5B261E4F6900A1FEAA /* CodingChallengeApp.swift in Sources */,
+				22E4032F27F19D50009724C3 /* NetworkConfiguration.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
