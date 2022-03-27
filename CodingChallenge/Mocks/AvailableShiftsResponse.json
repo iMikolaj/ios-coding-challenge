@@ -1,0 +1,2809 @@
+{
+    "data": [
+        {
+            "date": "2022-03-27",
+            "shifts": [
+                {
+                    "shift_id": 2568727,
+                    "start_time": "2022-03-27T19:00:00+00:00",
+                    "end_time": "2022-03-28T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-27 14:00:00",
+                    "normalized_end_date_time": "2022-03-27 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2666983,
+                    "start_time": "2022-03-27T19:00:00+00:00",
+                    "end_time": "2022-03-28T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-27 14:00:00",
+                    "normalized_end_date_time": "2022-03-27 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2671713,
+                    "start_time": "2022-03-27T19:00:00+00:00",
+                    "end_time": "2022-03-28T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-27 14:00:00",
+                    "normalized_end_date_time": "2022-03-27 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2675243,
+                    "start_time": "2022-03-27T19:00:00+00:00",
+                    "end_time": "2022-03-28T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-27 14:00:00",
+                    "normalized_end_date_time": "2022-03-27 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2648598,
+                    "start_time": "2022-03-27T20:00:00+00:00",
+                    "end_time": "2022-03-28T04:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-27 15:00:00",
+                    "normalized_end_date_time": "2022-03-27 23:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2671714,
+                    "start_time": "2022-03-28T03:00:00+00:00",
+                    "end_time": "2022-03-28T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-27 22:00:00",
+                    "normalized_end_date_time": "2022-03-28 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-03-28",
+            "shifts": [
+                {
+                    "shift_id": 2642760,
+                    "start_time": "2022-03-28T11:00:00+00:00",
+                    "end_time": "2022-03-28T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-28 06:00:00",
+                    "normalized_end_date_time": "2022-03-28 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2666986,
+                    "start_time": "2022-03-28T19:00:00+00:00",
+                    "end_time": "2022-03-29T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-28 14:00:00",
+                    "normalized_end_date_time": "2022-03-28 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661328,
+                    "start_time": "2022-03-29T03:00:00+00:00",
+                    "end_time": "2022-03-29T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-28 22:00:00",
+                    "normalized_end_date_time": "2022-03-29 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-03-29",
+            "shifts": [
+                {
+                    "shift_id": 2569844,
+                    "start_time": "2022-03-29T19:00:00+00:00",
+                    "end_time": "2022-03-30T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-29 14:00:00",
+                    "normalized_end_date_time": "2022-03-29 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-03-30",
+            "shifts": [
+                {
+                    "shift_id": 2569845,
+                    "start_time": "2022-03-30T19:00:00+00:00",
+                    "end_time": "2022-03-31T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-30 14:00:00",
+                    "normalized_end_date_time": "2022-03-30 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2453562,
+                    "start_time": "2022-03-30T23:00:00+00:00",
+                    "end_time": "2022-03-31T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-30 18:00:00",
+                    "normalized_end_date_time": "2022-03-31 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-03-31",
+            "shifts": [
+                {
+                    "shift_id": 2453564,
+                    "start_time": "2022-03-31T11:00:00+00:00",
+                    "end_time": "2022-03-31T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-31 06:00:00",
+                    "normalized_end_date_time": "2022-03-31 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2569846,
+                    "start_time": "2022-03-31T19:00:00+00:00",
+                    "end_time": "2022-04-01T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-03-31 14:00:00",
+                    "normalized_end_date_time": "2022-03-31 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-02",
+            "shifts": [
+                {
+                    "shift_id": 2633163,
+                    "start_time": "2022-04-02T11:00:00+00:00",
+                    "end_time": "2022-04-02T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 06:00:00",
+                    "normalized_end_date_time": "2022-04-02 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661379,
+                    "start_time": "2022-04-02T11:00:00+00:00",
+                    "end_time": "2022-04-02T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 06:00:00",
+                    "normalized_end_date_time": "2022-04-02 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2673847,
+                    "start_time": "2022-04-02T11:00:00+00:00",
+                    "end_time": "2022-04-02T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 06:00:00",
+                    "normalized_end_date_time": "2022-04-02 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670274,
+                    "start_time": "2022-04-02T12:00:00+00:00",
+                    "end_time": "2022-04-02T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 07:00:00",
+                    "normalized_end_date_time": "2022-04-02 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661392,
+                    "start_time": "2022-04-02T19:00:00+00:00",
+                    "end_time": "2022-04-03T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 14:00:00",
+                    "normalized_end_date_time": "2022-04-02 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2673849,
+                    "start_time": "2022-04-02T19:00:00+00:00",
+                    "end_time": "2022-04-03T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 14:00:00",
+                    "normalized_end_date_time": "2022-04-02 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661406,
+                    "start_time": "2022-04-03T03:00:00+00:00",
+                    "end_time": "2022-04-03T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-02 22:00:00",
+                    "normalized_end_date_time": "2022-04-03 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-03",
+            "shifts": [
+                {
+                    "shift_id": 2633143,
+                    "start_time": "2022-04-03T11:00:00+00:00",
+                    "end_time": "2022-04-03T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 06:00:00",
+                    "normalized_end_date_time": "2022-04-03 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2633171,
+                    "start_time": "2022-04-03T11:00:00+00:00",
+                    "end_time": "2022-04-03T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 06:00:00",
+                    "normalized_end_date_time": "2022-04-03 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661380,
+                    "start_time": "2022-04-03T11:00:00+00:00",
+                    "end_time": "2022-04-03T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 06:00:00",
+                    "normalized_end_date_time": "2022-04-03 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2673853,
+                    "start_time": "2022-04-03T11:00:00+00:00",
+                    "end_time": "2022-04-03T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 06:00:00",
+                    "normalized_end_date_time": "2022-04-03 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670275,
+                    "start_time": "2022-04-03T12:00:00+00:00",
+                    "end_time": "2022-04-03T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 07:00:00",
+                    "normalized_end_date_time": "2022-04-03 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661393,
+                    "start_time": "2022-04-03T19:00:00+00:00",
+                    "end_time": "2022-04-04T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 14:00:00",
+                    "normalized_end_date_time": "2022-04-03 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2673854,
+                    "start_time": "2022-04-03T19:00:00+00:00",
+                    "end_time": "2022-04-04T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 14:00:00",
+                    "normalized_end_date_time": "2022-04-03 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670287,
+                    "start_time": "2022-04-03T20:00:00+00:00",
+                    "end_time": "2022-04-04T04:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 15:00:00",
+                    "normalized_end_date_time": "2022-04-03 23:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661407,
+                    "start_time": "2022-04-04T03:00:00+00:00",
+                    "end_time": "2022-04-04T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-03 22:00:00",
+                    "normalized_end_date_time": "2022-04-04 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-05",
+            "shifts": [
+                {
+                    "shift_id": 2670267,
+                    "start_time": "2022-04-05T12:00:00+00:00",
+                    "end_time": "2022-04-05T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-05 07:00:00",
+                    "normalized_end_date_time": "2022-04-05 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-06",
+            "shifts": [
+                {
+                    "shift_id": 2670264,
+                    "start_time": "2022-04-06T12:00:00+00:00",
+                    "end_time": "2022-04-06T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-06 07:00:00",
+                    "normalized_end_date_time": "2022-04-06 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-07",
+            "shifts": [
+                {
+                    "shift_id": 2670265,
+                    "start_time": "2022-04-07T12:00:00+00:00",
+                    "end_time": "2022-04-07T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-07 07:00:00",
+                    "normalized_end_date_time": "2022-04-07 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-08",
+            "shifts": [
+                {
+                    "shift_id": 2670276,
+                    "start_time": "2022-04-08T12:00:00+00:00",
+                    "end_time": "2022-04-08T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-08 07:00:00",
+                    "normalized_end_date_time": "2022-04-08 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670421,
+                    "start_time": "2022-04-09T00:00:00+00:00",
+                    "end_time": "2022-04-09T12:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-08 19:00:00",
+                    "normalized_end_date_time": "2022-04-09 07:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-09",
+            "shifts": [
+                {
+                    "shift_id": 2633164,
+                    "start_time": "2022-04-09T11:00:00+00:00",
+                    "end_time": "2022-04-09T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-09 06:00:00",
+                    "normalized_end_date_time": "2022-04-09 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661381,
+                    "start_time": "2022-04-09T11:00:00+00:00",
+                    "end_time": "2022-04-09T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-09 06:00:00",
+                    "normalized_end_date_time": "2022-04-09 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670259,
+                    "start_time": "2022-04-09T12:00:00+00:00",
+                    "end_time": "2022-04-09T20:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-09 07:00:00",
+                    "normalized_end_date_time": "2022-04-09 15:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 11,
+                        "name": "Assisted Living Facility",
+                        "color": "#5856D6"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661394,
+                    "start_time": "2022-04-09T19:00:00+00:00",
+                    "end_time": "2022-04-10T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-09 14:00:00",
+                    "normalized_end_date_time": "2022-04-09 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670459,
+                    "start_time": "2022-04-10T00:00:00+00:00",
+                    "end_time": "2022-04-10T12:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-09 19:00:00",
+                    "normalized_end_date_time": "2022-04-10 07:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661408,
+                    "start_time": "2022-04-10T03:00:00+00:00",
+                    "end_time": "2022-04-10T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-09 22:00:00",
+                    "normalized_end_date_time": "2022-04-10 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-10",
+            "shifts": [
+                {
+                    "shift_id": 2633144,
+                    "start_time": "2022-04-10T11:00:00+00:00",
+                    "end_time": "2022-04-10T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-10 06:00:00",
+                    "normalized_end_date_time": "2022-04-10 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2633172,
+                    "start_time": "2022-04-10T11:00:00+00:00",
+                    "end_time": "2022-04-10T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-10 06:00:00",
+                    "normalized_end_date_time": "2022-04-10 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661382,
+                    "start_time": "2022-04-10T11:00:00+00:00",
+                    "end_time": "2022-04-10T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-10 06:00:00",
+                    "normalized_end_date_time": "2022-04-10 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661395,
+                    "start_time": "2022-04-10T19:00:00+00:00",
+                    "end_time": "2022-04-11T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-10 14:00:00",
+                    "normalized_end_date_time": "2022-04-10 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661409,
+                    "start_time": "2022-04-11T03:00:00+00:00",
+                    "end_time": "2022-04-11T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-10 22:00:00",
+                    "normalized_end_date_time": "2022-04-11 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-13",
+            "shifts": [
+                {
+                    "shift_id": 2648305,
+                    "start_time": "2022-04-13T19:00:00+00:00",
+                    "end_time": "2022-04-14T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-13 14:00:00",
+                    "normalized_end_date_time": "2022-04-13 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-14",
+            "shifts": [
+                {
+                    "shift_id": 2648306,
+                    "start_time": "2022-04-14T19:00:00+00:00",
+                    "end_time": "2022-04-15T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-14 14:00:00",
+                    "normalized_end_date_time": "2022-04-14 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-15",
+            "shifts": [
+                {
+                    "shift_id": 2648307,
+                    "start_time": "2022-04-15T19:00:00+00:00",
+                    "end_time": "2022-04-16T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-15 14:00:00",
+                    "normalized_end_date_time": "2022-04-15 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670460,
+                    "start_time": "2022-04-16T00:00:00+00:00",
+                    "end_time": "2022-04-16T12:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-15 19:00:00",
+                    "normalized_end_date_time": "2022-04-16 07:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-16",
+            "shifts": [
+                {
+                    "shift_id": 2633165,
+                    "start_time": "2022-04-16T11:00:00+00:00",
+                    "end_time": "2022-04-16T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 06:00:00",
+                    "normalized_end_date_time": "2022-04-16 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661383,
+                    "start_time": "2022-04-16T11:00:00+00:00",
+                    "end_time": "2022-04-16T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 06:00:00",
+                    "normalized_end_date_time": "2022-04-16 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2676054,
+                    "start_time": "2022-04-16T11:00:00+00:00",
+                    "end_time": "2022-04-16T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 06:00:00",
+                    "normalized_end_date_time": "2022-04-16 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661396,
+                    "start_time": "2022-04-16T19:00:00+00:00",
+                    "end_time": "2022-04-17T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 14:00:00",
+                    "normalized_end_date_time": "2022-04-16 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2676057,
+                    "start_time": "2022-04-16T19:00:00+00:00",
+                    "end_time": "2022-04-17T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 14:00:00",
+                    "normalized_end_date_time": "2022-04-16 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2670461,
+                    "start_time": "2022-04-17T00:00:00+00:00",
+                    "end_time": "2022-04-17T12:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 19:00:00",
+                    "normalized_end_date_time": "2022-04-17 07:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661410,
+                    "start_time": "2022-04-17T03:00:00+00:00",
+                    "end_time": "2022-04-17T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-16 22:00:00",
+                    "normalized_end_date_time": "2022-04-17 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-17",
+            "shifts": [
+                {
+                    "shift_id": 2633145,
+                    "start_time": "2022-04-17T11:00:00+00:00",
+                    "end_time": "2022-04-17T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 06:00:00",
+                    "normalized_end_date_time": "2022-04-17 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2633173,
+                    "start_time": "2022-04-17T11:00:00+00:00",
+                    "end_time": "2022-04-17T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 06:00:00",
+                    "normalized_end_date_time": "2022-04-17 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661384,
+                    "start_time": "2022-04-17T11:00:00+00:00",
+                    "end_time": "2022-04-17T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 06:00:00",
+                    "normalized_end_date_time": "2022-04-17 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2676055,
+                    "start_time": "2022-04-17T11:00:00+00:00",
+                    "end_time": "2022-04-17T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 06:00:00",
+                    "normalized_end_date_time": "2022-04-17 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661397,
+                    "start_time": "2022-04-17T19:00:00+00:00",
+                    "end_time": "2022-04-18T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 14:00:00",
+                    "normalized_end_date_time": "2022-04-17 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2676058,
+                    "start_time": "2022-04-17T19:00:00+00:00",
+                    "end_time": "2022-04-18T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 14:00:00",
+                    "normalized_end_date_time": "2022-04-17 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661411,
+                    "start_time": "2022-04-18T03:00:00+00:00",
+                    "end_time": "2022-04-18T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-17 22:00:00",
+                    "normalized_end_date_time": "2022-04-18 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-23",
+            "shifts": [
+                {
+                    "shift_id": 2633166,
+                    "start_time": "2022-04-23T11:00:00+00:00",
+                    "end_time": "2022-04-23T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-23 06:00:00",
+                    "normalized_end_date_time": "2022-04-23 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661385,
+                    "start_time": "2022-04-23T11:00:00+00:00",
+                    "end_time": "2022-04-23T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-23 06:00:00",
+                    "normalized_end_date_time": "2022-04-23 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661398,
+                    "start_time": "2022-04-23T19:00:00+00:00",
+                    "end_time": "2022-04-24T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-23 14:00:00",
+                    "normalized_end_date_time": "2022-04-23 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661412,
+                    "start_time": "2022-04-24T03:00:00+00:00",
+                    "end_time": "2022-04-24T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-23 22:00:00",
+                    "normalized_end_date_time": "2022-04-24 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-24",
+            "shifts": [
+                {
+                    "shift_id": 2633146,
+                    "start_time": "2022-04-24T11:00:00+00:00",
+                    "end_time": "2022-04-24T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-24 06:00:00",
+                    "normalized_end_date_time": "2022-04-24 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 99,
+                        "specialty_id": 7,
+                        "state_id": 44,
+                        "name": "Certified Medication Aide",
+                        "abbreviation": "CMA",
+                        "specialty": {
+                            "id": 7,
+                            "name": "Medication Aide/Tech",
+                            "color": "#5AC8FA",
+                            "abbreviation": "CMA/CMT/QMA"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2633174,
+                    "start_time": "2022-04-24T11:00:00+00:00",
+                    "end_time": "2022-04-24T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-24 06:00:00",
+                    "normalized_end_date_time": "2022-04-24 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661386,
+                    "start_time": "2022-04-24T11:00:00+00:00",
+                    "end_time": "2022-04-24T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-24 06:00:00",
+                    "normalized_end_date_time": "2022-04-24 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661399,
+                    "start_time": "2022-04-24T19:00:00+00:00",
+                    "end_time": "2022-04-25T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-24 14:00:00",
+                    "normalized_end_date_time": "2022-04-24 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661413,
+                    "start_time": "2022-04-25T03:00:00+00:00",
+                    "end_time": "2022-04-25T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-24 22:00:00",
+                    "normalized_end_date_time": "2022-04-25 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "date": "2022-04-30",
+            "shifts": [
+                {
+                    "shift_id": 2633167,
+                    "start_time": "2022-04-30T11:00:00+00:00",
+                    "end_time": "2022-04-30T23:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-30 06:00:00",
+                    "normalized_end_date_time": "2022-04-30 18:00:00",
+                    "timezone": "Central",
+                    "premium_rate": false,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661387,
+                    "start_time": "2022-04-30T11:00:00+00:00",
+                    "end_time": "2022-04-30T19:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-30 06:00:00",
+                    "normalized_end_date_time": "2022-04-30 14:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Day Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661400,
+                    "start_time": "2022-04-30T19:00:00+00:00",
+                    "end_time": "2022-05-01T03:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-30 14:00:00",
+                    "normalized_end_date_time": "2022-04-30 22:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Evening Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 154,
+                        "specialty_id": 8,
+                        "state_id": 44,
+                        "name": "Licensed Vocational Nurse",
+                        "abbreviation": "LVN",
+                        "specialty": {
+                            "id": 8,
+                            "name": "Licensed Vocational/Practical Nurse",
+                            "color": "#AF52DE",
+                            "abbreviation": "LVN/LPN"
+                        }
+                    }
+                },
+                {
+                    "shift_id": 2661414,
+                    "start_time": "2022-05-01T03:00:00+00:00",
+                    "end_time": "2022-05-01T11:00:00+00:00",
+                    "normalized_start_date_time": "2022-04-30 22:00:00",
+                    "normalized_end_date_time": "2022-05-01 06:00:00",
+                    "timezone": "Central",
+                    "premium_rate": true,
+                    "covid": false,
+                    "shift_kind": "Night Shift",
+                    "within_distance": 10,
+                    "facility_type": {
+                        "id": 8,
+                        "name": "Skilled Nursing Facility",
+                        "color": "#AF52DE"
+                    },
+                    "skill": {
+                        "id": 2,
+                        "name": "Long Term Care",
+                        "color": "#007AFF"
+                    },
+                    "localized_specialty": {
+                        "id": 44,
+                        "specialty_id": 6,
+                        "state_id": 44,
+                        "name": "Certified Nursing Aide",
+                        "abbreviation": "CNA",
+                        "specialty": {
+                            "id": 6,
+                            "name": "Certified Nursing Aide",
+                            "color": "#007AFF",
+                            "abbreviation": "CNA"
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "links": [],
+    "meta": {
+        "lat": 32.7766642,
+        "lng": -96.79698789999999
+    }
+}
